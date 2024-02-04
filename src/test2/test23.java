@@ -6,8 +6,11 @@ public class test23 {
 		// TODO Auto-generated method stub
 		String a = "faga";
 		char d = a.charAt(3);
+		int c = 1 +1 ;
 		
-		System.out.println( "\n" + d);
+		System.out.println( "\n" + d + a);
+	      System.out.println( c);
+
 		
 
 	}
